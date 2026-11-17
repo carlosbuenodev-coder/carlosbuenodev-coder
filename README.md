@@ -53,7 +53,7 @@ Landing pages e interfaces desenvolvidas para praticar criação de páginas, co
 
 ## Além do código
 
-Gosto de rock clássico e heavy metal, especialmente AC/DC e Black Sabbath. 🎸
+Gosto de rock clássico e heavy metal. 🎸
 
 ## Contato
 
