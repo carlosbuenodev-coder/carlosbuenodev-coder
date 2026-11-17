@@ -1,109 +1,76 @@
-
 <div align="center">
 
-![Carlos Bueno - Cyber Metal](./cyber-metal-banner.png)
+![Carlos Bueno — Cyber Metal](./cyber-metal-banner.png)
 
-# Carlos Bueno
+**Desenvolvedor Back-end em formação | C# · .NET · SQL**
 
-### Desenvolvedor Back-end em formação | C# • .NET • SQL
+*Transformando experiência com sistemas empresariais em soluções de software.*
 
-**Transformando experiência com sistemas empresariais em soluções de software.**
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/carlosbuenodev-coder)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-17191E?style=for-the-badge&logo=linkedin&logoColor=E42B42)](https://www.linkedin.com/in/carlosbueno-dev)
+[![GitHub](https://img.shields.io/badge/GitHub-Repositórios-17191E?style=for-the-badge&logo=github&logoColor=E42B42)](https://github.com/carlosbuenodev-coder?tab=repositories)
 
 </div>
 
----
+![Sobre mim](./assets/sobre.png)
 
-## 👨‍💻 Sobre mim
+Sou estudante de **Análise e Desenvolvimento de Sistemas**, em transição para desenvolvimento de software, com foco em **back-end C#/.NET e bancos de dados relacionais**.
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas**, em transição de carreira para o desenvolvimento de software, com foco em **Back-end C#/.NET e bancos de dados relacionais**.
+Trago mais de **20 anos de experiência com sistemas empresariais**, implantação e parametrização de ERP, integrações e processos de negócio. Hoje aplico esse conhecimento no desenvolvimento de projetos práticos, buscando unir compreensão das necessidades do usuário, regras de negócio e soluções técnicas.
 
-Tenho mais de 20 anos de experiência profissional com sistemas empresariais, implantação de ERP, integrações, parametrizações e processos de negócio.
-
-Atualmente, aplico essa experiência no desenvolvimento de projetos práticos, buscando construir soluções organizadas, seguras e alinhadas a necessidades reais.
-
-Meu objetivo é atuar profissionalmente como desenvolvedor Back-end, evoluindo continuamente em arquitetura de software, APIs REST, SQL e boas práticas de desenvolvimento.
-
----
-
-## ⚙️ Tecnologias e ferramentas
+![Tecnologias](./assets/tecnologias.png)
 
 <div align="center">
 
-![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET_10-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge)
+<img src="./assets/csharp.png" alt="C#" height="44" /> <img src="./assets/dotnet.png" alt=".NET 10" height="44" /> <img src="./assets/aspnet.png" alt="ASP.NET Core" height="44" /> <img src="./assets/mysql.png" alt="MySQL" height="44" /> <img src="./assets/sql.png" alt="SQL" height="44" />
+
+<img src="./assets/efcore.png" alt="Entity Framework Core" height="44" /> <img src="./assets/git.png" alt="Git" height="44" /> <img src="./assets/github.png" alt="GitHub" height="44" /> <img src="./assets/vscode.png" alt="VS Code" height="44" />
+
+<img src="./assets/react.png" alt="React" height="44" /> <img src="./assets/typescript.png" alt="TypeScript" height="44" />
 
 </div>
 
-### Conhecimentos em desenvolvimento
+**Foco principal:** C#, .NET 10, ASP.NET Core, APIs REST, SQL e MySQL.  
+**Em desenvolvimento e estudo:** Entity Framework Core, React e TypeScript, além de boas práticas de autenticação, autorização e testes.
 
-- C# e ASP.NET Core
-- APIs REST e regras de negócio
-- Entity Framework Core
-- SQL e modelagem de bancos de dados
-- MySQL e integração com aplicações
-- Git e GitHub
-- React e TypeScript — estudos e projetos de front-end
+![Projetos](./assets/projetos.png)
 
----
+### Sistema de Gestão Financeira Empresarial
 
-## 🚀 Projetos em destaque
+Projeto em desenvolvimento com **C#, .NET 10, ASP.NET Core e MySQL**, voltado a operações financeiras e regras de negócio. Inclui trabalho com API REST, integração com banco de dados e evolução gradual de autenticação, permissões multiempresa e interface em React/TypeScript.
 
-### 💼 Sistema de Gestão Financeira Empresarial
+**Status:** em desenvolvimento. *Link do repositório será adicionado após confirmação de publicação.*
 
-Projeto de desenvolvimento de um sistema de gestão financeira, utilizando **C#, .NET 10, ASP.NET Core e MySQL**.
+### SQL Sales Analytics
 
-O projeto contempla o desenvolvimento gradual de uma API REST, integração com banco de dados, regras de negócio, autenticação e arquitetura multiempresa.
+Projeto de modelagem e consultas SQL para explorar dados comerciais de clientes, produtos, pedidos e itens, utilizando MySQL.
 
-**Tecnologias:** C# | .NET 10 | ASP.NET Core | MySQL | SQL | React | TypeScript
+**Status:** projeto de estudo. *Link do repositório será adicionado após confirmação.*
 
-**Status:** Em desenvolvimento.
+### Projetos Web
 
-### 📊 SQL Sales Analytics
+Landing pages e interfaces web desenvolvidas como projetos práticos, utilizando tecnologias de front-end e ferramentas de publicação.
 
-Projeto prático de banco de dados relacional para análise de dados comerciais.
+[Ver meus repositórios públicos](https://github.com/carlosbuenodev-coder?tab=repositories)
 
-Inclui modelagem, relacionamento entre tabelas, consultas SQL e exploração de informações de clientes, produtos e pedidos.
+![Formação](./assets/formacao.png)
 
-**Tecnologias:** MySQL | SQL
+- **Análise e Desenvolvimento de Sistemas:** graduação em andamento.
+- **Ciências Contábeis:** graduação concluída.
+- Experiência profissional em implantação, parametrização e integração de sistemas ERP.
+- Aprendizado contínuo por meio de projetos práticos em back-end e bancos de dados.
 
-### 🌐 Projetos Web
+![Além do código](./assets/rock.png)
 
-Desenvolvimento de landing pages e interfaces web, explorando ferramentas modernas de front-end e publicação de projetos.
+Rock clássico e heavy metal fazem parte da minha personalidade. **AC/DC e Black Sabbath** estão entre minhas referências musicais. 🎸🤘
 
-**Tecnologias:** React | TypeScript | HTML | CSS
-
----
-
-## 🎓 Formação e evolução profissional
-
-- Graduando em Análise e Desenvolvimento de Sistemas
-- Graduado em Ciências Contábeis
-- Experiência profissional com implantação, integração e parametrização de sistemas ERP
-- Estudos contínuos em desenvolvimento Back-end, bancos de dados e engenharia de software
-
----
-
-## 🎸 Além do código
-
-Rock clássico e heavy metal fazem parte da minha personalidade.
-
-AC/DC e Black Sabbath estão entre minhas referências musicais.
-
-Acredito que tecnologia, criatividade e dedicação combinam muito bem — especialmente quando acompanhadas de uma boa guitarra.
-
----
+![Contato](./assets/contato.png)
 
 <div align="center">
 
-### ⚡ Keep coding. Keep rocking. 🤘
+**Vamos conversar sobre tecnologia, projetos e oportunidades?**
 
-**C# | .NET | SQL | Back-end Development**
+[**LinkedIn — carlosbueno-dev**](https://www.linkedin.com/in/carlosbueno-dev) · [**GitHub — carlosbuenodev-coder**](https://github.com/carlosbuenodev-coder)
+
+**KEEP CODING · KEEP ROCKING** ⚡
 
 </div>
