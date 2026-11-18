@@ -6,8 +6,10 @@
 
 Estudante de Análise e Desenvolvimento de Sistemas, desenvolvendo soluções com foco em APIs REST, bancos de dados e sistemas empresariais.
 
+[![Portfólio](https://img.shields.io/badge/Portfólio-Cyber_Metal_2.1-B91C1C?style=flat-square&logo=githubpages&logoColor=white)](https://carlosbuenodev-coder.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil_profissional-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlosbueno-dev)
 [![GitHub](https://img.shields.io/badge/GitHub-Repositórios-24292F?style=flat-square&logo=github&logoColor=white)](https://github.com/carlosbuenodev-coder?tab=repositories)
+
 
 </div>
 
@@ -29,17 +31,24 @@ Tenho mais de 20 anos de experiência com sistemas empresariais, incluindo impla
 
 ## Projetos em destaque
 
-### Sistema de Gestão Financeira Empresarial
+### [Sistema de Gestão Financeira Empresarial](https://github.com/carlosbuenodev-coder/gestaofinanceiraempresarial)
 
 Projeto em desenvolvimento com **C#, .NET 10, ASP.NET Core e MySQL**, voltado à construção de uma API REST para gestão financeira empresarial. Inclui evolução gradual de regras de negócio, autenticação, permissões multiempresa e interface em React/TypeScript.
 
 **Status:** em desenvolvimento.
 
-### SQL Sales Analytics
+### [SQL Sales Analytics](https://github.com/carlosbuenodev-coder/SQL-Sales-Analytics)
+
 
 Projeto de estudo com **MySQL e SQL**, explorando modelagem relacional e consultas sobre dados comerciais, como clientes, produtos e pedidos.
 
 ### Projetos Web
+
+### [Cyber Metal Portfolio 2.1](https://carlosbuenodev-coder.github.io/)
+
+Portfólio profissional desenvolvido com **React, TypeScript e Vite**, com animações interativas, layout responsivo e publicação automatizada pelo GitHub Actions.
+
+**[Acessar o site](https://carlosbuenodev-coder.github.io/)** · **[Código-fonte](https://github.com/carlosbuenodev-coder/carlosbuenodev-coder.github.io)**
 
 Landing pages e interfaces desenvolvidas para praticar criação de páginas, componentes e publicação web.
 
